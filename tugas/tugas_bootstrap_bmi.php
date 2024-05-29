@@ -57,19 +57,19 @@
     <div class="container">
         <div class="mb-3">
             <label for="" class="form-label">nama</label>
-            <input class="form-control" type="text" name="nama" id="nama" placeholder="" value="<?php print (isset($nama)) ? $nama : ""; ?>">
+            <input readonly class="form-control" type="text" name="nama" id="nama" placeholder="" value="<?php print (isset($nama)) ? $nama : ""; ?>">
         </div>
     </div>
     <div class="container">
         <div class="mb-3">
             <label for="" class="form-label">nilai bmi anda adalah</label>
-            <input class="form-control" type="text" name="" id="" placeholder="" value="<?php print (isset($bmi)) ? $bmi : "" ?>">
+            <input readonly class="form-control" type="text" name="" id="" placeholder="" value="<?php print (isset($bmi)) ? $bmi : "" ?>">
         </div>
     </div>
     <div class="container">
         <div class="mb-3">
             <label for="" class="form-label">Status Bmi</label>
-            <input class="form-control" type="text" name="" id="" placeholder="" value="<?php print (isset($status)) ? $status : "" ?>">
+            <input readonly class="form-control" type="text" name="" id="" placeholder="" value="<?php print (isset($status)) ? $status : "" ?>">
         </div>
     </div>
 
