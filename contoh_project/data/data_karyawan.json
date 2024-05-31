@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "nik": "1234567890",
+    "nama": "tegar",
+    "jenisKelamin": "laki-laki",
+    "golongan": "I",
+    "gaji": 1000000
+  },
+  {
+    "nik": "098765",
+    "nama": "bunga",
+    "jenisKelamin": "perempuan",
+    "golongan": "II",
+    "gaji": 500000
+  }
+]
